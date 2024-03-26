@@ -1,2 +1,2 @@
 # Tingle-Treats
-A foot delivery platform build on React and Node
+A food delivery platform build on React and Node
